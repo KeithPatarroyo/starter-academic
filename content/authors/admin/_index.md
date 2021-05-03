@@ -1,7 +1,7 @@
 ---
 title: Keith Y. Patarroyo
 role: Researcher on Computer Graphics
-avatar_filename: keith-ligum.jpg
+avatar_filename: https://pbs.twimg.com/profile_images/1265684051098296326/-YyzJG0-_400x400.jpg
 bio: My research interests include Computer Graphics, Foundation of Mathematics
   and Non-Equilibrium Statistical Mechanics.
 interests:
