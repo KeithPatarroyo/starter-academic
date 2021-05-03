@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: mailto:keith.patarroyo@gmail.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/KeithPatarroyo
@@ -24,6 +24,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/keith-patarroyo/
+  - display:
+      header: false
+    icon_pack: ai
+    icon: cv
+    link: CV.pdf
 organizations:
   - name: Université de Montréal
     url: https://www.umontreal.ca/en/
