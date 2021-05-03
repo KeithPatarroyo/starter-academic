@@ -1,5 +1,5 @@
 ---
-title: Keith Patarroyo
+title: Keith Y. Patarroyo
 role: Researcher on Computer Graphics
 avatar_filename: keith-ligum.jpg
 bio: My research interests include Computer Graphics, Foundation of Mathematics
@@ -39,6 +39,6 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Keith Patarroyo studied physics at the Universidad Nacional de Colombia and is now a student at Université de Montréal pursuing his MSc in computer graphics. He has been interested in discrete models of physics since the beginning of his career, first working from a mathematical perspective (FEM), then from a physical perspective (Lattice Boltzmann) and currently with both a computer science perspective (discrete differential geometry) and an NKS perspective (Wolfram physics). Presently, he works on three projects: The first is about models of metamathematics and metaengineering derived from causal graphs. The second explores the discrete differential geometry of Hypergraphs. Finally the third attempts to bridge the gap of entropy and computation with the use of multi-way systems for Non-equilibrium Thermodynamics.
+I’m currently a M.Sc. student in Computer Science at the [Computational Design Group](http://www-labs.iro.umontreal.ca/~bernhard/) from the Université de Montréal. I work on the modeling of slender mechanical structures under the supervision of [Bernhard Thomaszewski](http://www-labs.iro.umontreal.ca/~bernhard/bernhard.html). I’m also a member of [LIGUM](http://www.ligum.umontreal.ca/)(Laboratoire d’Informatique Graphique de l’Université de Montréal).
 
-For a short description of his training, he was drawn to continuous and discrete fluid dynamics and kinetic theory by J. Muñoz and was taught FEM by J. Galvis, DG-FEM by X. Zhang (张翔雄), lattice Boltzmann by M. Mendoza and discrete differential geometry by M. Bessmeltsev (Бессмельцев), inter alia.
+A short description of my training, I was drawn to continuous and discrete (Fluid Dynamics and Kinetic Theory) by [J. Muñoz](http://ciencias.bogota.unal.edu.co/gruposdeinvestigacion/simulacion-de-sistemas-fisicos/miembros/director/), taught FEM by [J. Galvis](https://sites.google.com/view/jgalvis/home), DG-FEM by [X. Zhang(张翔雄)](http://www.math.purdue.edu/~zhan1966/), Lattice Boltzmann by [M. Mendoza](http://www.ifb.ethz.ch/comphys/people/senior-scientists/miller-mendoza-jimenez.html), Discrete Dif. Geometry by [M. Bessmeltsev(Бессмельцев)](http://www-labs.iro.umontreal.ca/~bmpix/) inter alia.
