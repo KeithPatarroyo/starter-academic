@@ -3,11 +3,11 @@ title: Keith Y. Patarroyo
 role: Researcher on Computer Graphics
 avatar_filename: avatar.jpg
 bio: My research interests include Computer Graphics, Foundation of Mathematics
-  and Non-Equilibrium Statistical Mechanics.
+  and Non-Equilibrium Thermodynamics.
 interests:
   - Foundations of Mathematics
   - Discrete Differential Geometry
-  - Non-EquilibriumThermodynamics
+  - Non-Equilibrium Thermodynamics
 social:
   - icon: envelope
     icon_pack: fas
