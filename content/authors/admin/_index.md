@@ -5,9 +5,9 @@ avatar_filename: avatar.jpg
 bio: My research interests include Computer Graphics, Foundation of Mathematics
   and Non-Equilibrium Thermodynamics.
 interests:
-  - Foundations of Mathematics
-  - Discrete Differential Geometry
-  - Non-Equilibrium Thermodynamics
+  - Hierarchical Assembly
+  - Computational Design
+  - Digital Fabrication
 social:
   - icon: envelope
     icon_pack: fas
