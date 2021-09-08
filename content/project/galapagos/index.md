@@ -17,6 +17,8 @@ links:
   icon_pack: fab
   name: Follow
   url: https://mobile.twitter.com/GalpagosProjec2
+- name: 'Membership'
+  url: https://galapagos.netlify.app/author/keith-y.-patarroyo/
 url_code: ""
 url_pdf: ""
 url_slides: ""
