@@ -1,5 +1,5 @@
 ---
-title: Printone: Interactive Resonance Simulation for Free-form Print-wind Instrument Design
+title: "Printone: Interactive Resonance Simulation for Free-form Print-wind Instrument Design"
 
 
 event: Conference
