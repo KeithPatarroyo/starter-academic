@@ -13,7 +13,7 @@ address:
   postcode: 
   country: Canada
 
-summary: Music&AI Reading Group.
+summary: Music-AI Reading Group.
 abstract: "In this conference I'll present the possible relations between the field of Sound Rendering, Musical Instrument Manufaturing and AI using as a basis the paper from AutoDesk Research - Printone: Interactive Resonance Simulation for Free-form Print-wind Instrument Design - First I'll present the pipeline for generating physically based sound synthesis using a computer, then with these tools we can see that there is an analogy with the field of image rendering. With the current absence of a differentiable sound rendering pipeline, the field of neural image rendering could be extended to the field of sound rendering. This and other applications to musical instruments and AI are also discussed."
 
 # Talk start and end times.
