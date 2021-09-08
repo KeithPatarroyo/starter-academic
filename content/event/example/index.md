@@ -37,6 +37,8 @@ image:
 links:
 - name: 'Announcement Post'
   url: "https://galapagos.netlify.app/post/2021-6-03_projectannouncement/"
+- name: 'Gálapagos Project'
+  url: "https://galapagos.netlify.app/"
 url_code: ""
 url_pdf: ""
 url_slides: ""
