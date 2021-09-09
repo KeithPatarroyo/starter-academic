@@ -20,8 +20,8 @@ This conference aim is to expose these methods in the local community. We look b
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2018-08-11T11:00:00Z"
-date_end: "2018-08-11T13:00:00Z"
+date: "2018-08-11T17:00:00Z"
+date_end: "2018-08-11T17:30:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
