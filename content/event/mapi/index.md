@@ -5,9 +5,9 @@ title: High-order accurate DG(Discontinious Galerkin) methods for conservation l
 event: Conference
 event_url: "https://web.archive.org/web/20180821122528/https://scm.org.co/mapi1/"
 
-location: Universidad de los Andes, Salon W
+location: Universidad de los Andes, Salon W - 101
 address:
-  street: 
+  street: Cra. 1 #18a12
   city: Bógota 
   region: DC
   postcode: 
