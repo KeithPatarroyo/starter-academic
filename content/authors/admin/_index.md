@@ -1,12 +1,15 @@
 ---
 title: Keith Y. Patarroyo
-role: Researcher on Computer Graphics
+role: Researcher Engineer on Artificial Life, Digital Chemistry and Unconventional Computation
 avatar_filename: avatar.jpg
-bio: My research interests include Hierarchical Assembly, Computational Design and Digital Fabrication.
+bio: My research interests include Hierarchical Assembly, Artificial Life and Material Computation.
 interests:
   - Hierarchical Assembly
+  - Digital Chemistry
   - Computational Design
-  - Digital Fabrication
+  - Artificial Life
+  - Formal Verification
+  - Distributed Systems
 social:
   - icon: envelope
     icon_pack: fas
