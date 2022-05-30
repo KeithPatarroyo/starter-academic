@@ -1,6 +1,6 @@
 ---
 title: Parameterization Tutorial
-subtitle: Lecture presented at the Universidad Nacional de Colombia in the Numerical Analysis class.
+subtitle: Lecture presented at Universidad Nacional de Colombia Numerical Analysis class.
 
 # Summary for listings and search engines
 summary: Slides and Jupyter Notebook about parameterization using libigl, meshplot and implementing Tutte, harmonic, mean-value, ARAP, LSCM, and a global parameterization with cuts.
@@ -40,9 +40,9 @@ categories:
 - Lecture
 - Computer Graphics
 ---
-I was invited by my undergrad supervisor([Juan Galvis](https://sites.google.com/view/jgalvis/home)) to give a lecture in the undergrad class of [numerical analysis](https://sites.google.com/view/jgalvis/teaching/previous) for CS and Math majors. The lecture was supposed to present a problem to the undergrads in such a way that they apply the tools they've learnt about floating point, numerical linear algebra and solutions of non-linear systems. 
+I was invited by my undergrad supervisor([Juan Galvis](https://sites.google.com/view/jgalvis/home)) to give a lecture for the undergrad class of [numerical analysis](https://sites.google.com/view/jgalvis/teaching/previous) for CS and Math majors. The lecture was supposed to present a problem to the undergrads in such a way that they apply the tools they've learnt about floating point, numerical linear algebra and solutions of non-linear systems. 
 
-From these consideretions I decided to give a small introdutions to GANs([Generative Adversarial Networks](https://en.wikipedia.org/wiki/Generative_adversarial_network)) and present the problem of parameterization in computer graphics. The former has an interesting story about floating point and the latter has a clear visual interpretation and numerical problems. In the problem of parameterization, one easily encounters numerical linear algebra problems and to understand some of the algorithms a surface level knowledge of differential geometry is enough. I gave a lecture and prepared a Jupyter Notebook, I'm posting both things here. 
+From these considerations I decided to give a small introdution to GANs([Generative Adversarial Networks](https://en.wikipedia.org/wiki/Generative_adversarial_network)) and present the problem of parameterization in computer graphics. The former has an interesting story about floating point and the latter has a clear visual interpretation and numerical problems. In the problem of parameterization, one easily encounters numerical linear algebra problems and to understand some of the algorithms a surface level knowledge of differential geometry is enough. I made some slides and prepared a Jupyter Notebook, I'm posting both things here. 
 
 Slides:
 
