@@ -211,25 +211,30 @@ plt.show()
 
 
 For each of the fixed boundary parameterization we have to solve the following linear system:
-
+{{< math >}}
 $$A U=\bar{U},$$
+{{< /math >}}
 where,
+{{< math >}}
 $$A=\left\{\begin{array}{c}
 1, i=j \\
 -\lambda_{i j}, j \in N_{i} \\
 0, \text { else }
 \end{array}\right. \qquad \lambda_{i j}=D_{i j} / \sum_{k \in N_{i}} D_{i k},$$
+{{< /math >}}
 and,
+{{< math >}}
 $$u_{i}-\underbrace{\sum_{j \in N_{i}, j \leq n} \lambda_{i j} u_{j}}_{\text{unknown parameter points 
 }}=\underbrace{\sum_{j \in N_{i}, j>n} \lambda_{i j} u_{j}}_{\text{fixed}}=\bar{u}_{i}.$$
+{{< /math >}}
 Solve separately for $u$ and $v$.  
 
 ##  <a id='tutte'></a> 2.1 Tutte - Uniform Weights Parameterization
 
 We will implement the uniform weights parameterization from scratch, in this case the weights are,
-
+{{< math >}}
 $$D_{ij}=1 \qquad \lambda_{ij}=\frac{1}{N_i},$$
-
+{{< /math >}}
 where $N_i$ is the number of neighbors. So that is the fist step in our algorithm:
 
 
