@@ -46,7 +46,7 @@ From these consideretions I decided to present the problem of parameterization i
 
 Slides:
 
-{{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vSMOvuMfyHt9z_j-JsT-S56KI2ajL6FfT47DfwsLkHH1HZvOvcZZPUAaQdLDwcNRSG-HsqT2YqJdqhm/embed?start=false&loop=false&delayms=3000" >}}
+
 
 Jupyter Notebook:
 
