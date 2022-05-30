@@ -33,12 +33,12 @@ authors:
 
 tags:
 - Academic
-- lecture
-- computer graphics
+- Lecture
+- Computer graphics
 
 categories:
-- lecture
-- computer graphics
+- Lecture
+- Computer Graphics
 ---
 I was invited by my undergrad supervisor([Juan Galvis](https://sites.google.com/view/jgalvis/home)) to give a lecture in the undergrad class of [numerical analysis](https://sites.google.com/view/jgalvis/teaching/previous) for CS and Math majors. The lecture was supposed to present a problem to the undergrads in such a way that they apply the tools they've learnt about floating point, numerical linear algebra and solutions of non-linear systems. 
 
@@ -216,9 +216,9 @@ $$A U=\bar{U},$$
 
 where,
 
-$$A=\begin{cases}1 & \text{if }i=j, \\
--\lambda_{i j} & \text{if } j \in N_{i},\\
-0 & \text{else }. \\
+$$A=\begin{cases}1 & \text{if }i=j, \\\\
+-\lambda_{i j} & \text{if } j \in N_{i},\\\\
+0 & \text{else }.
 \end{cases}, \qquad \lambda_{i j}=D_{i j} / \sum_{k \in N_{i}} D_{i k},$$
 
 and,
