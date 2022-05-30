@@ -42,11 +42,11 @@ categories:
 ---
 I was invited by my undergrad supervisor([Juan Galvis](https://sites.google.com/view/jgalvis/home)) to give a lecture for the undergrad class of [numerical analysis](https://sites.google.com/view/jgalvis/teaching/previous) for CS and Math majors. The lecture was supposed to present a problem to the undergrads in such a way that they apply the tools they've learnt about floating point, numerical linear algebra and solutions of non-linear systems. 
 
-From these considerations I decided to give a small introdution to GANs([Generative Adversarial Networks](https://en.wikipedia.org/wiki/Generative_adversarial_network)) and present the problem of parameterization in computer graphics. The former has an interesting story about floating point and the latter has a clear visual interpretation and numerical problems. In the problem of parameterization, one easily encounters numerical linear algebra problems and to understand some of the algorithms a surface level knowledge of differential geometry is enough. I made some slides and prepared a Jupyter Notebook, I'm posting both things here. 
+From these considerations I decided to give a small introdution to GANs([Generative Adversarial Networks](https://en.wikipedia.org/wiki/Generative_adversarial_network)) and present the problem of parameterization in computer graphics. The former has an interesting story about floating point and the latter has a clear visual interpretation and numerical problems. In the problem of parameterization, one easily encounters numerical linear algebra and to understand the algorithms, a surface level knowledge of differential geometry, is enough. I made some slides and prepared a Jupyter Notebook, I'm posting both things here. 
 
 Slides:
 
-{{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vSMOvuMfyHt9z_j-JsT-S56KI2ajL6FfT47DfwsLkHH1HZvOvcZZPUAaQdLDwcNRSG-HsqT2YqJdqhm/embed?start=false&loop=false&delayms=3000" >}}
+{{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vQb6yq7jCIAFusYxh-VmaJTVa1q4XX2E1oZryGzbAEjpp5JoEfxXi9ykTq2aqWllr4yIp1y9VMzLl7A/pub?start=false&loop=false&delayms=3000" >}}
 
 [Jupyter Notebook:](param-notebook.zip)
 
