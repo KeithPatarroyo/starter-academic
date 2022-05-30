@@ -40,6 +40,7 @@ categories:
 - Lecture
 - Computer Graphics
 ---
+___
 I was invited by my undergrad supervisor([Juan Galvis](https://sites.google.com/view/jgalvis/home)) to give a lecture for the undergrad class of [numerical analysis](https://sites.google.com/view/jgalvis/teaching/previous) for CS and Math majors. The lecture was supposed to present a problem to the undergrads in such a way that they apply the tools they've learnt about floating point, numerical linear algebra and solutions of non-linear systems. 
 
 From these considerations I decided to give a small introdution to GANs([Generative Adversarial Networks](https://en.wikipedia.org/wiki/Generative_adversarial_network)) and present the problem of parameterization in computer graphics. The former has an interesting story about floating point and the latter has a clear visual interpretation and numerical problems. In the problem of parameterization, one easily encounters numerical linear algebra and to understand the algorithms, a surface level knowledge of differential geometry, is enough. I made some slides and prepared a Jupyter Notebook, I'm posting both things here. 
@@ -47,6 +48,7 @@ From these considerations I decided to give a small introdution to GANs([Generat
 Slides:
 
 {{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vQb6yq7jCIAFusYxh-VmaJTVa1q4XX2E1oZryGzbAEjpp5JoEfxXi9ykTq2aqWllr4yIp1y9VMzLl7A/embed?start=false&loop=false&delayms=3000&slide=id.p" >}}
+___
 
 [{{< icon name="file-alt" pack="fas" >}} Jupyter Notebook:](param-notebook.zip)
 
