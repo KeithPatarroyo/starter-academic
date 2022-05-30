@@ -40,13 +40,13 @@ categories:
 - lecture
 - computer graphics
 ---
-I was invited by my undergrad supervisor to give a lecture in the undergrad class of numerical analysis for CS and Math majors. The lecture was supposed to present a problem to the undergrads in such a way that they apply the tools they've learnt about floating point, numerical linear algebra and solutions of non-linear systems. 
+I was invited by my undergrad supervisor([Juan Galvis](https://sites.google.com/view/jgalvis/home)) to give a lecture in the undergrad class of [numerical analysis](https://sites.google.com/view/jgalvis/teaching/previous) for CS and Math majors. The lecture was supposed to present a problem to the undergrads in such a way that they apply the tools they've learnt about floating point, numerical linear algebra and solutions of non-linear systems. 
 
-From these consideretions I decided to present the problem of parameterization in computer graphics. It has a clear visual interpretation, one easily encounters numerical linear algebra problems and to understand some of the algorithms a surface level knowledge of differential geometry is enough. I gave a lecture and prepared a Jupyter Notebook, both things I'm posting here. 
+From these consideretions I decided to give a small introdutions to GANs([Generative Sdversarial Networks](https://en.wikipedia.org/wiki/Generative_adversarial_network)) and present the problem of parameterization in computer graphics. The former has an interesting sotry about floating point and the latter has a clear visual interpretation and numerical problems. In the problem of parameterization, one easily encounters numerical linear algebra problems and to understand some of the algorithms a surface level knowledge of differential geometry is enough. I gave a lecture and prepared a Jupyter Notebook, I'm posting both things here. 
 
 Slides:
 
-{{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vSMOvuMfyHt9z_j-JsT-S56KI2ajL6FfT47DfwsLkHH1HZvOvcZZPUAaQdLDwcNRSG-HsqT2YqJdqhm/embed?start=false&loop=false&delayms=3000" >}}
+{{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vQb6yq7jCIAFusYxh-VmaJTVa1q4XX2E1oZryGzbAEjpp5JoEfxXi9ykTq2aqWllr4yIp1y9VMzLl7A/pub?start=false&loop=false&delayms=3000" >}}
 
 Jupyter Notebook:
 
@@ -216,11 +216,10 @@ $$A U=\bar{U},$$
 
 where,
 
-$$A=\left\{\begin{array}{c}
-1, i=j \\
--\lambda_{i j}, j \in N_{i} \\
-0, \text { else }
-\end{array}\right. \qquad \lambda_{i j}=D_{i j} / \sum_{k \in N_{i}} D_{i k},$$
+$$A=\begin{cases}1 & \text{if }i=j, \\
+-\lambda_{i j} & \text{if } j \in N_{i},\\
+0 & \text{else }. \\
+\end{cases}, \qquad \lambda_{i j}=D_{i j} / \sum_{k \in N_{i}} D_{i k},$$
 
 and,
 
