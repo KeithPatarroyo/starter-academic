@@ -1,6 +1,6 @@
 ---
 title: Parameterization Tutorial
-subtitle: Lecture I gave at the Universidad Nacional de Colombia in the Numerical Analysis class.
+subtitle: Lecture presented at the Universidad Nacional de Colombia in the Numerical Analysis class.
 
 # Summary for listings and search engines
 summary: Jupyter Notebook about parameterization using libigl, meshplot and implementing Tutte, harmonic, mean-value, ARAP, LSCM, and a global parameterization with cuts.
@@ -40,11 +40,15 @@ categories:
 - lecture
 - computer graphics
 ---
-I was invited by my undergrad supervisor to give a lecture in the undergrad class of numerical analysis for CS and Math majors. The lecture was supposed to present a problem to the undergrads in such a way that they apply the tools they've learnt about floating point, numerical linear algbra and solutions of non-linear systems. 
+I was invited by my undergrad supervisor to give a lecture in the undergrad class of numerical analysis for CS and Math majors. The lecture was supposed to present a problem to the undergrads in such a way that they apply the tools they've learnt about floating point, numerical linear algebra and solutions of non-linear systems. 
 
-From these consideretions I decided to present the problem of parameterization in computer graphics. It has a clear visual interpretation and one only needs a surface level knowledge of differential geometry. I gave a lecture and I prepared a Jupyter Notebook, both things I'm posting here. 
+From these consideretions I decided to present the problem of parameterization in computer graphics. It has a clear visual interpretation, one easily encounters numerical linear algebra problems and to understand some of the algorithms a surface level knowledge of differential geometry is enough. I gave a lecture and prepared a Jupyter Notebook, both things I'm posting here. 
 
 Slides:
+
+{{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vSMOvuMfyHt9z_j-JsT-S56KI2ajL6FfT47DfwsLkHH1HZvOvcZZPUAaQdLDwcNRSG-HsqT2YqJdqhm/embed?start=false&loop=false&delayms=3000" >}}
+
+Jupyter Notebook:
 
 ## Table of Contents
 0. [Requirements](#requirements)
