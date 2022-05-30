@@ -48,7 +48,7 @@ Slides:
 
 {{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vQb6yq7jCIAFusYxh-VmaJTVa1q4XX2E1oZryGzbAEjpp5JoEfxXi9ykTq2aqWllr4yIp1y9VMzLl7A/embed?start=false&loop=false&delayms=3000&slide=id.p" >}}
 
-[Jupyter Notebook:](param-notebook.zip)
+[{{< icon name="file-alt" pack="fas" >}} Jupyter Notebook:](param-notebook.zip)
 
 ## Table of Contents
 0. [Requirements](#requirements)
