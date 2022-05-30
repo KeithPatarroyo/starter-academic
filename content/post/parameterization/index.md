@@ -40,17 +40,11 @@ categories:
 - lecture
 - computer graphics
 ---
-# Parameterization
+I was invited by my undergrad supervisor to give a lecture in the undergrad class of numerical analysis for CS and Math majors. The lecture was supposed to present a problem to the undergrads in such a way that they apply the tools they've learnt about floating point, numerical linear algbra and solutions of non-linear systems. 
 
-*Keith Y. Patarroyo*  
-*University of Glasgow & Chemify & Wolfram Research*
+From these consideretions I decided to present the problem of parameterization in computer graphics. It has a clear visual interpretation and one only needs a surface level knowledge of differential geometry. I gave a lecture and I prepared a Jupyter Notebook, both things I'm posting here. 
 
-*keith.patarroyo@gmail.com*
-
-*May 24, 2022*
-___
-
-![alt text](data/back.png)
+Slides:
 
 ## Table of Contents
 0. [Requirements](#requirements)
