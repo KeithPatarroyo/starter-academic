@@ -46,7 +46,7 @@ From these consideretions I decided to give a small introdutions to GANs([Genera
 
 Slides:
 
-{{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vSMOvuMfyHt9z_j-JsT-S56KI2ajL6FfT47DfwsLkHH1HZvOvcZZPUAaQdLDwcNRSG-HsqT2YqJdqhm/pub?start=false&loop=false&delayms=3000" >}}
+{{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vSMOvuMfyHt9z_j-JsT-S56KI2ajL6FfT47DfwsLkHH1HZvOvcZZPUAaQdLDwcNRSG-HsqT2YqJdqhm/embed?start=false&loop=false&delayms=3000" >}}
 
 [Jupyter Notebook:](param-notebook.zip)
 
