@@ -1,9 +1,9 @@
 ---
 title: Parameterization Tutorial
-subtitle: Lecture presented at Universidad Nacional de Colombia Numerical Analysis class.
+subtitle: Invited lecture given at Universidad Nacional de Colombia Numerical Analysis class.
 
 # Summary for listings and search engines
-summary: Slides and Jupyter Notebook about parameterization using libigl, meshplot and implementing Tutte, harmonic, mean-value, ARAP, LSCM, and a global parameterization with cuts.
+summary: Slides and Jupyter Notebook from an invited lecture about parameterization using libigl, meshplot and implementing Tutte, harmonic, mean-value, ARAP, LSCM, and a global parameterization with cuts.
 
 # Link this post with a project
 projects: []
