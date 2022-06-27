@@ -1,7 +1,7 @@
 ---
 title: Keith Y. Patarroyo
 role: Researcher Engineer on Chemical Evolution, Digital Chemistry and Unconventional Computation
-avatar_filename: profile.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include Hierarchical Assembly, Chemical Evolution and Material Computation.
 interests:
   - Hierarchical Assembly
