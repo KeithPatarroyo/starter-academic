@@ -1,6 +1,6 @@
 ---
 title: Keith Y. Patarroyo
-role: Researcher Engineer on Chemical Evolution, Digital Chemistry and Unconventional Computation
+role: Research Engineer on Chemical Evolution, Digital Chemistry and Unconventional Computation
 avatar_filename: avatar.jpg
 bio: My research interests include Hierarchical Assembly, Chemical Evolution and Material Computation.
 interests:
@@ -33,7 +33,7 @@ social:
     icon: cv
     link: CV.pdf
 organizations:
-  - name: Univerity of Glasgow
+  - name: University of Glasgow
     url: "http://www.chem.gla.ac.uk/cronin/"
 education:
   courses:
@@ -50,4 +50,4 @@ highlight_name: false
 
 I obtained my M.Sc. in Computer Science at the [Computational Design Group](http://www-labs.iro.umontreal.ca/~bernhard/) from the Université de Montréal. I currently work as a [research engineer](https://www.gla.ac.uk/schools/chemistry/staff/keithpatarroyo/) at the [Complex Chemistry labs](http://www.chem.gla.ac.uk/cronin/) in the Mazumdar-Shaw Advanced Research Centre (ARC) from the University of Glasgow. I'm also a [Foresight Fellow](https://foresight.org/engage/fellowship/) for 2026.
 
-A short description of my training, I was drawn to continuous and discrete (Fluid Dynamics and Kinetic Theory) by [J. Muñoz](http://ciencias.bogota.unal.edu.co/departamentos/departamento-de-fisica/docentes/?tx_unaldirectorio_contactlist%5Bperson%5D=48&tx_unaldirectorio_contactlist%5Baction%5D=show&tx_unaldirectorio_contactlist%5Bcontroller%5D=Person&cHash=f59e499450f9a880d323d63e79545e5c), taught FEM by [J. Galvis](https://sites.google.com/view/jgalvis/home), DG-FEM by [X. Zhang(张翔雄)](http://www.math.purdue.edu/~zhan1966/), computational design and making machines by [B. Thomaszewski](https://n.ethz.ch/~bthomasz/) and Complex Systems Theory by [S. Wolfram](https://www.stephenwolfram.com/), inter alia.
+A short description of my training, I was drawn to continuous and discrete aspects of physics (Fluid Dynamics and Kinetic Theory) by [J. Muñoz](http://ciencias.bogota.unal.edu.co/departamentos/departamento-de-fisica/docentes/?tx_unaldirectorio_contactlist%5Bperson%5D=48&tx_unaldirectorio_contactlist%5Baction%5D=show&tx_unaldirectorio_contactlist%5Bcontroller%5D=Person&cHash=f59e499450f9a880d323d63e79545e5c), taught FEM by [J. Galvis](https://sites.google.com/view/jgalvis/home), DG-FEM by [X. Zhang(张翔雄)](http://www.math.purdue.edu/~zhan1966/), computational design and making machines by [B. Thomaszewski](https://n.ethz.ch/~bthomasz/) and Complex Systems Theory by [S. Wolfram](https://www.stephenwolfram.com/), inter alia.
