@@ -48,7 +48,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Conference Paper Figure 3: Assembly Theory measures and approximations in CA'
+  caption: 'Journal Paper Figure 4,5: Algorithm pipeline and output'
   focal_point: ""
   preview_only: false
 
