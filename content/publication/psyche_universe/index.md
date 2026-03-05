@@ -21,7 +21,7 @@ publication_short: "ŠUM"
 abstract: "Following [Brower's philosophy](https://projecteuclid.org/journals/notre-dame-journal-of-formal-logic/volume-37/issue-3/Life-Art-and-Mysticism/10.1305/ndjfl/1039886518.full), this text starts from the idea that a theory of creation is fundamentally impossible to capture by words. But even if that is the case, it purposely embarks us on a failed journey to describe how we currently best understand the engine of creation itself. The theories of natural and cultural evolution attempt to capture the phenomenon of creation of biology and humanity, this underlying phenomenon bringing about change and novelty is the [Psyche of the Universe](https://www.youtube.com/watch?v=vgZMPcrRmio). Can we perhaps describe this phenomenon more fully in a phenomenological way, where a conection with the action of the world is foundational via a knowledge engine?  In this exploration we hope to slowly reveal that one naturally needs to incorporate other elements(emotion, freedom and action) present on human nature to 'bring alive' and 'keep alive' the technical ideas. However this process seems to be impossible to describe in a recipe, it should be acted on by the world and be nurtured by some unknown element we describe as love."
 
 # Summary. An optional shortened abstract.
-summary: "Essay containing the fundamental philosophical ideas of the [Gálapagos Project](https://galapagos.netlify.app/) published in the journal [ŠUM#18](https://www.sum.si/issues/generative-horizons)"
+summary: "Essay containing the fundamental philosophical ideas of unifying evolution and intelligence published in the journal [ŠUM#18](https://www.sum.si/issues/generative-horizons)"
 
 tags:
 - Adjacent
