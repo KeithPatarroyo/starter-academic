@@ -1,8 +1,8 @@
 ---
 title: "Rapid Exploration of the Assembly Chemical Space of Molecular Graphs"
 authors:
-- admin
 - Ian Seet
+- admin
 - Gage Siebert
 - Sara I. Walker
 - Leroy Cronin
