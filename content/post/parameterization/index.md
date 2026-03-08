@@ -134,10 +134,6 @@ Image(os.path.join(root_folder, "data", "mesh-1.png")) # This is what it suppose
 <iframe src="mesh-1.html" width="100%" height="320px"></iframe>
 
 
-    
-![png](output_14_1.png)
-    
-
 
 
 ##  <a id='sample'></a> 1.1 Sample Meshes
@@ -156,10 +152,7 @@ Image(os.path.join(root_folder, "data", "mesh-2.png")) # This is what it suppose
 
 
 
-
-
-    
-![png](output_17_1.png)
+<iframe src="mesh-2.html" width="100%" height="320px"></iframe>
     
 
 
@@ -178,11 +171,7 @@ Image(os.path.join(root_folder, "data", "mesh-3.png")) # This is what it suppose
 
 
 
-
-
-    
-![png](output_19_1.png)
-    
+<iframe src="mesh-3.html" width="100%" height="320px"></iframe>
 
 
 
@@ -346,9 +335,7 @@ Image(os.path.join(root_folder, "data", "mesh-4.png")) # This is what it suppose
 
 
 
-
-    
-![png](output_43_2.png)
+<iframe src="mesh-4.html" width="100%" height="320px"></iframe>
     
 
 
@@ -450,10 +437,7 @@ Image(os.path.join(root_folder, "data", "mesh-5.png")) # This is what it suppose
 
 
 
-
-
-    
-![png](output_52_2.png)
+<iframe src="mesh-5.html" width="100%" height="320px"></iframe>
     
 
 
@@ -495,9 +479,7 @@ Image(os.path.join(root_folder, "data", "mesh-6.png")) # This is what it suppose
 
 
 
-
-    
-![png](output_57_2.png)
+<iframe src="mesh-6.html" width="100%" height="320px"></iframe>
     
 
 
@@ -552,9 +534,7 @@ Image(os.path.join(root_folder, "data", "mesh-7.png")) # This is what it suppose
 
 
 
-
-    
-![png](output_64_2.png)
+<iframe src="mesh-7.html" width="100%" height="320px"></iframe>
     
 
 
@@ -590,9 +570,7 @@ Image(os.path.join(root_folder, "data", "mesh-10.png")) # This is what it suppos
 
 
 
-
-    
-![png](output_69_1.png)
+<iframe src="mesh-10.html" width="100%" height="320px"></iframe>
     
 
 
@@ -638,9 +616,7 @@ Image(os.path.join(root_folder, "data", "mesh-8.png")) # This is what it suppose
 
 
 
-
-    
-![png](output_73_2.png)
+<iframe src="mesh-8.html" width="100%" height="320px"></iframe>
     
 
 
@@ -674,8 +650,7 @@ Image(os.path.join(root_folder, "data", "mesh-11.png")) # This is what it suppos
 
 
 
-    
-![png](output_76_1.png)
+  <iframe src="mesh-11.html" width="100%" height="320px"></iframe>
     
 
 
@@ -698,7 +673,7 @@ Image(os.path.join(root_folder, "data", "mesh-12.png")) # This is what it suppos
 
 
     
-![png](output_79_1.png)
+<iframe src="mesh-12.html" width="100%" height="320px"></iframe>
     
 
 
@@ -748,7 +723,7 @@ Image(os.path.join(root_folder, "data", "mesh-9.png")) # This is what it suppose
 
 
     
-![png](output_83_3.png)
+<iframe src="mesh-9.html" width="100%" height="320px"></iframe>
     
 
 
@@ -894,7 +869,7 @@ Image(os.path.join(root_folder, "data", "mesh-6.png")) # This is what it suppose
 
 
     
-![png](output_98_2.png)
+<iframe src="mesh-6.html" width="100%" height="320px"></iframe>
     
 
 
