@@ -818,9 +818,6 @@ subplot(uv, fvp_spot, uv=uv, shading={"wireframe": True, "flat": False}, s=[1, 2
 Image(os.path.join(root_folder, "data", "mesh-9.png")) # This is what it supposed to look like
 ```
 
-    /home/mrkeithypatarroyo/anaconda3/envs/combined/lib/python3.6/site-packages/pythreejs/traits.py:203: UserWarning: 64-bit data types not supported for WebGL data, casting to 32-bit.
-      warnings.warn('64-bit data types not supported for WebGL '
-
 
 
 <button id="loadButton9">Load Content</button>
