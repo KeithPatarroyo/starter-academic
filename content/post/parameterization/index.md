@@ -131,13 +131,13 @@ Image(os.path.join(root_folder, "data", "mesh-1.png")) # This is what it suppose
     Renderer(camera=PerspectiveCamera(children=(DirectionalLight(color='white', intensity=0.6, position=(1.0, 0.5,…
 
 
-<button id="loadButton">Load Content</button>
+<button id="loadButton1">Load Content</button>
 <div id="container">
   <iframe id="myIframe-1" src="about:blank" data-src="mesh-1.html" style="display:none; width:100%; height:320px;"></iframe>
 </div>
 
 <script>
-document.getElementById('loadButton').addEventListener('click', function() {
+document.getElementById('loadButton1').addEventListener('click', function() {
   const iframe = document.getElementById('myIframe-1');
   
   // 1. Set the source from the data-src attribute
@@ -165,13 +165,13 @@ Image(os.path.join(root_folder, "data", "mesh-2.png")) # This is what it suppose
 
 
 
-<button id="loadButton">Load Content</button>
+<button id="loadButton2">Load Content</button>
 <div id="container">
   <iframe id="myIframe-2" src="about:blank" data-src="mesh-2.html" style="display:none; width:100%; height:320px;"></iframe>
 </div>
 
 <script>
-document.getElementById('loadButton').addEventListener('click', function() {
+document.getElementById('loadButton2').addEventListener('click', function() {
   const iframe = document.getElementById('myIframe-2');
   
   // 1. Set the source from the data-src attribute
@@ -199,13 +199,13 @@ Image(os.path.join(root_folder, "data", "mesh-3.png")) # This is what it suppose
 
 
 
-<button id="loadButton">Load Content</button>
+<button id="loadButton3">Load Content</button>
 <div id="container">
   <iframe id="myIframe-3" src="about:blank" data-src="mesh-3.html" style="display:none; width:100%; height:320px;"></iframe>
 </div>
 
 <script>
-document.getElementById('loadButton').addEventListener('click', function() {
+document.getElementById('loadButton3').addEventListener('click', function() {
   const iframe = document.getElementById('myIframe-3');
   
   // 1. Set the source from the data-src attribute
@@ -378,13 +378,13 @@ Image(os.path.join(root_folder, "data", "mesh-4.png")) # This is what it suppose
 
 
 
-<button id="loadButton">Load Content</button>
+<button id="loadButton4">Load Content</button>
 <div id="container">
   <iframe id="myIframe-4" src="about:blank" data-src="mesh-4.html" style="display:none; width:100%; height:320px;"></iframe>
 </div>
 
 <script>
-document.getElementById('loadButton').addEventListener('click', function() {
+document.getElementById('loadButton4').addEventListener('click', function() {
   const iframe = document.getElementById('myIframe-4');
   
   // 1. Set the source from the data-src attribute
@@ -622,13 +622,13 @@ Image(os.path.join(root_folder, "data", "mesh-10.png")) # This is what it suppos
 
 
 
-<button id="loadButton">Load Content</button>
+<button id="loadButton10">Load Content</button>
 <div id="container">
   <iframe id="myIframe-10" src="about:blank" data-src="mesh-10.html" style="display:none; width:100%; height:320px;"></iframe>
 </div>
 
 <script>
-document.getElementById('loadButton').addEventListener('click', function() {
+document.getElementById('loadButton10').addEventListener('click', function() {
   const iframe = document.getElementById('myIframe-10');
   
   // 1. Set the source from the data-src attribute
@@ -715,13 +715,13 @@ Image(os.path.join(root_folder, "data", "mesh-11.png")) # This is what it suppos
 
 
 
-<button id="loadButton">Load Content</button>
+<button id="loadButton11">Load Content</button>
 <div id="container">
   <iframe id="myIframe-11" src="about:blank" data-src="mesh-11.html" style="display:none; width:100%; height:320px;"></iframe>
 </div>
 
 <script>
-document.getElementById('loadButton').addEventListener('click', function() {
+document.getElementById('loadButton11').addEventListener('click', function() {
   const iframe = document.getElementById('myIframe-11');
   
   // 1. Set the source from the data-src attribute
@@ -753,13 +753,13 @@ Image(os.path.join(root_folder, "data", "mesh-12.png")) # This is what it suppos
 
 
     
-<button id="loadButton">Load Content</button>
+<button id="loadButton12">Load Content</button>
 <div id="container">
   <iframe id="myIframe-12" src="about:blank" data-src="mesh-12.html" style="display:none; width:100%; height:320px;"></iframe>
 </div>
 
 <script>
-document.getElementById('loadButton').addEventListener('click', function() {
+document.getElementById('loadButton12').addEventListener('click', function() {
   const iframe = document.getElementById('myIframe-12');
   
   // 1. Set the source from the data-src attribute
