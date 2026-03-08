@@ -739,11 +739,7 @@ Image(os.path.join(root_folder, "data", "mesh-9.png")) # This is what it suppose
 
 
     
-<iframe src="mesh-9a.html" width="100%" height="320px"></iframe>
 
-<iframe src="mesh-9b.html" width="100%" height="320px"></iframe>
-
-<iframe src="mesh-9c.html" width="100%" height="320px"></iframe>
     
 
 
@@ -889,7 +885,7 @@ Image(os.path.join(root_folder, "data", "mesh-6.png")) # This is what it suppose
 
 
     
-<iframe src="mesh-6.html" width="100%" height="320px"></iframe>
+<iframe src="mesh-6a.html" width="100%" height="320px"></iframe>
     
 
 
