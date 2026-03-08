@@ -133,12 +133,12 @@ Image(os.path.join(root_folder, "data", "mesh-1.png")) # This is what it suppose
 
 <button id="loadButton">Load Content</button>
 <div id="container">
-  <iframe id="myIframe" src="about:blank" data-src="mesh-1.html" style="display:none; width:100%; height:320px;"></iframe>
+  <iframe id="myIframe-1" src="about:blank" data-src="mesh-1.html" style="display:none; width:100%; height:320px;"></iframe>
 </div>
 
 <script>
 document.getElementById('loadButton').addEventListener('click', function() {
-  const iframe = document.getElementById('myIframe');
+  const iframe = document.getElementById('myIframe-1');
   
   // 1. Set the source from the data-src attribute
   iframe.src = iframe.getAttribute('data-src');
@@ -165,7 +165,22 @@ Image(os.path.join(root_folder, "data", "mesh-2.png")) # This is what it suppose
 
 
 
-<iframe src="mesh-2.html" width="100%" height="320px"></iframe>
+<button id="loadButton">Load Content</button>
+<div id="container">
+  <iframe id="myIframe-2" src="about:blank" data-src="mesh-2.html" style="display:none; width:100%; height:320px;"></iframe>
+</div>
+
+<script>
+document.getElementById('loadButton').addEventListener('click', function() {
+  const iframe = document.getElementById('myIframe-2');
+  
+  // 1. Set the source from the data-src attribute
+  iframe.src = iframe.getAttribute('data-src');
+  
+  // 2. Make it visible
+  iframe.style.display = 'block';
+});
+</script>
     
 
 
@@ -184,7 +199,22 @@ Image(os.path.join(root_folder, "data", "mesh-3.png")) # This is what it suppose
 
 
 
-<iframe src="mesh-3.html" width="100%" height="320px"></iframe>
+<button id="loadButton">Load Content</button>
+<div id="container">
+  <iframe id="myIframe-3" src="about:blank" data-src="mesh-3.html" style="display:none; width:100%; height:320px;"></iframe>
+</div>
+
+<script>
+document.getElementById('loadButton').addEventListener('click', function() {
+  const iframe = document.getElementById('myIframe-3');
+  
+  // 1. Set the source from the data-src attribute
+  iframe.src = iframe.getAttribute('data-src');
+  
+  // 2. Make it visible
+  iframe.style.display = 'block';
+});
+</script>
 
 
 
@@ -348,7 +378,22 @@ Image(os.path.join(root_folder, "data", "mesh-4.png")) # This is what it suppose
 
 
 
-<iframe src="mesh-4.html" width="100%" height="320px"></iframe>
+<button id="loadButton">Load Content</button>
+<div id="container">
+  <iframe id="myIframe-4" src="about:blank" data-src="mesh-4.html" style="display:none; width:100%; height:320px;"></iframe>
+</div>
+
+<script>
+document.getElementById('loadButton').addEventListener('click', function() {
+  const iframe = document.getElementById('myIframe-4');
+  
+  // 1. Set the source from the data-src attribute
+  iframe.src = iframe.getAttribute('data-src');
+  
+  // 2. Make it visible
+  iframe.style.display = 'block';
+});
+</script>
   
 
 
@@ -577,7 +622,22 @@ Image(os.path.join(root_folder, "data", "mesh-10.png")) # This is what it suppos
 
 
 
-<iframe src="mesh-10.html" width="100%" height="320px"></iframe>
+<button id="loadButton">Load Content</button>
+<div id="container">
+  <iframe id="myIframe-10" src="about:blank" data-src="mesh-10.html" style="display:none; width:100%; height:320px;"></iframe>
+</div>
+
+<script>
+document.getElementById('loadButton').addEventListener('click', function() {
+  const iframe = document.getElementById('myIframe-10');
+  
+  // 1. Set the source from the data-src attribute
+  iframe.src = iframe.getAttribute('data-src');
+  
+  // 2. Make it visible
+  iframe.style.display = 'block';
+});
+</script>
     
 
 
@@ -655,7 +715,22 @@ Image(os.path.join(root_folder, "data", "mesh-11.png")) # This is what it suppos
 
 
 
-  <iframe src="mesh-11.html" width="100%" height="320px"></iframe>
+<button id="loadButton">Load Content</button>
+<div id="container">
+  <iframe id="myIframe-11" src="about:blank" data-src="mesh-11.html" style="display:none; width:100%; height:320px;"></iframe>
+</div>
+
+<script>
+document.getElementById('loadButton').addEventListener('click', function() {
+  const iframe = document.getElementById('myIframe-11');
+  
+  // 1. Set the source from the data-src attribute
+  iframe.src = iframe.getAttribute('data-src');
+  
+  // 2. Make it visible
+  iframe.style.display = 'block';
+});
+</script>
     
 
 
@@ -678,7 +753,22 @@ Image(os.path.join(root_folder, "data", "mesh-12.png")) # This is what it suppos
 
 
     
-<iframe src="mesh-12.html" width="100%" height="320px"></iframe>
+<button id="loadButton">Load Content</button>
+<div id="container">
+  <iframe id="myIframe-12" src="about:blank" data-src="mesh-12.html" style="display:none; width:100%; height:320px;"></iframe>
+</div>
+
+<script>
+document.getElementById('loadButton').addEventListener('click', function() {
+  const iframe = document.getElementById('myIframe-12');
+  
+  // 1. Set the source from the data-src attribute
+  iframe.src = iframe.getAttribute('data-src');
+  
+  // 2. Make it visible
+  iframe.style.display = 'block';
+});
+</script>
     
 
 
