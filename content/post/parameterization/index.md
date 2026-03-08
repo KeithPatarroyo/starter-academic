@@ -335,13 +335,8 @@ Image(os.path.join(root_folder, "data", "mesh-4.png")) # This is what it suppose
 
 
 
-<iframe src="mesh-4a.html" width="100%" height="320px"></iframe>
-
-<iframe src="mesh-4b.html" width="100%" height="320px"></iframe>
-
-<iframe src="mesh-4c.html" width="100%" height="320px"></iframe>
-    
-
+<iframe src="mesh-4.html" width="100%" height="320px"></iframe>
+  
 
 
 ##  <a id='mean'></a> 2.2 Mean Value Parametrization
@@ -482,12 +477,6 @@ Image(os.path.join(root_folder, "data", "mesh-6.png")) # This is what it suppose
 
 
 
-
-<iframe src="mesh-6a.html" width="100%" height="320px"></iframe>
-
-<iframe src="mesh-6b.html" width="100%" height="320px"></iframe>
-
-<iframe src="mesh-6c.html" width="100%" height="320px"></iframe>
     
 
 
@@ -540,13 +529,6 @@ Image(os.path.join(root_folder, "data", "mesh-7.png")) # This is what it suppose
     HBox(children=(Output(), Output()))
 
 
-
-
-<iframe src="mesh-7a.html" width="100%" height="320px"></iframe>
-
-<iframe src="mesh-7b.html" width="100%" height="320px"></iframe>
-
-<iframe src="mesh-7c.html" width="100%" height="320px"></iframe>
     
 
 
@@ -627,12 +609,6 @@ Image(os.path.join(root_folder, "data", "mesh-8.png")) # This is what it suppose
 
 
 
-
-<iframe src="mesh-8a.html" width="100%" height="320px"></iframe>
-
-<iframe src="mesh-8b.html" width="100%" height="320px"></iframe>
-
-<iframe src="mesh-8c.html" width="100%" height="320px"></iframe>
     
 
 
