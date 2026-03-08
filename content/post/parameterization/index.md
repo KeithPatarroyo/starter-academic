@@ -363,21 +363,21 @@ Image(os.path.join(root_folder, "data", "mesh-4.png")) # This is what it suppose
 <button id="loadButton4">Load Content</button>
 <div id="container">
   <iframe id="myIframe-4" src="about:blank" data-src="mesh-4.html" style="display:none; width:100%; height:320px;"></iframe>
-  <iframe id="myIframe-4c" src="about:blank" data-src="mesh-4c.html" style="display:none; width:100%; height:320px;"></iframe>
+
 </div>
 
 <script>
 document.getElementById('loadButton4').addEventListener('click', function() {
   const iframe = document.getElementById('myIframe-4');
-  const iframe1 = document.getElementById('myIframe-4c');
+  
   
   // 1. Set the source from the data-src attribute
   iframe.src = iframe.getAttribute('data-src');
-  iframe1.src = iframe.getAttribute('data-src');
+
   
   // 2. Make it visible
   iframe.style.display = 'block';
-  iframe1.style.display = 'block';
+
 });
 </script>
   
