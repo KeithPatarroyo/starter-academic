@@ -471,16 +471,26 @@ subplot(uv, f_camel, uv=uv, shading={"wireframe": True, "flat": False}, s=[1, 2,
 Image(os.path.join(root_folder, "data", "mesh-5.png")) # This is what it supposed to look like
 ```
 
+<button id="loadButton5">Load Content</button>
+<div id="container">
+  <iframe id="myIframe-5" src="about:blank" data-src="mesh-5.html" style="display:none; width:100%; height:320px;"></iframe>
 
-    HBox(children=(Output(), Output()))
+</div>
 
+<script>
+document.getElementById('loadButton5').addEventListener('click', function() {
+  const iframe = document.getElementById('myIframe-5');
+  
+  
+  // 1. Set the source from the data-src attribute
+  iframe.src = iframe.getAttribute('data-src');
 
+  
+  // 2. Make it visible
+  iframe.style.display = 'block';
 
-    HBox(children=(Output(), Output()))
-
-
-
-<iframe src="mesh-5a.html" width="100%" height="320px"></iframe>
+});
+</script>
     
 
 
