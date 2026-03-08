@@ -590,11 +590,22 @@ Image(os.path.join(root_folder, "data", "mesh-7.png")) # This is what it suppose
 ```
 
 
-    HBox(children=(Output(), Output()))
+<button id="loadButton7">Load Content</button>
+<div id="container">
+  <iframe id="myIframe-7" src="about:blank" data-src="mesh-7.html" style="display:none; width:100%; height:320px;"></iframe>
+</div>
 
-
-
-    HBox(children=(Output(), Output()))
+<script>
+document.getElementById('loadButton7').addEventListener('click', function() {
+  const iframe = document.getElementById('myIframe-7');
+  
+  // 1. Set the source from the data-src attribute
+  iframe.src = iframe.getAttribute('data-src');
+  
+  // 2. Make it visible
+  iframe.style.display = 'block';
+});
+</script>
 
 
     
@@ -625,9 +636,6 @@ p.add_edges(surgery, faces, shading={"line_color": "red"});
 p.add_points(surgery, shading={"point_color": "green"})
 Image(os.path.join(root_folder, "data", "mesh-10.png")) # This is what it supposed to look like
 ```
-
-
-    Renderer(camera=PerspectiveCamera(children=(DirectionalLight(color='white', intensity=0.6, position=(0.0, 0.10…
 
 
 
@@ -682,14 +690,22 @@ subplot(uv, f_cow_sur, uv=uv, shading={"wireframe": True, "flat": False}, s=[1, 
 subplot(uv, f_cow_sur, uv=uv, shading={"wireframe": True, "flat": False}, s=[1, 2, 1],texture_data=utils.gen_checkers(1,1,1,1))
 Image(os.path.join(root_folder, "data", "mesh-8.png")) # This is what it supposed to look like
 ```
+<button id="loadButton8">Load Content</button>
+<div id="container">
+  <iframe id="myIframe-8" src="about:blank" data-src="mesh-8.html" style="display:none; width:100%; height:320px;"></iframe>
+</div>
 
-
-    HBox(children=(Output(), Output()))
-
-
-
-    HBox(children=(Output(), Output()))
-
+<script>
+document.getElementById('loadButton8').addEventListener('click', function() {
+  const iframe = document.getElementById('myIframe-8');
+  
+  // 1. Set the source from the data-src attribute
+  iframe.src = iframe.getAttribute('data-src');
+  
+  // 2. Make it visible
+  iframe.style.display = 'block';
+});
+</script>
 
 
     
@@ -717,9 +733,6 @@ for i in range(13):
     p.add_edges(vmod_spot[boundary.astype(int)], faces, shading={"line_color": "red"});
 Image(os.path.join(root_folder, "data", "mesh-11.png")) # This is what it supposed to look like
 ```
-
-
-    Renderer(camera=PerspectiveCamera(children=(DirectionalLight(color='white', intensity=0.6, position=(0.0, 0.10…
 
 
 
@@ -754,13 +767,6 @@ From these cuts, we can parametrize each of these sections and texture each of t
 plot(uv, fvp_spot, uv=uv, shading={"wireframe": True, "flat": False},texture_data=utils.gen_checkers(1,1,1,1))
 Image(os.path.join(root_folder, "data", "mesh-12.png")) # This is what it supposed to look like
 ```
-
-
-    Renderer(camera=PerspectiveCamera(children=(DirectionalLight(color='white', intensity=0.6, position=(0.4684064…
-
-
-
-
 
     
 <button id="loadButton12">Load Content</button>
@@ -817,18 +823,22 @@ Image(os.path.join(root_folder, "data", "mesh-9.png")) # This is what it suppose
 
 
 
-    HBox(children=(Output(), Output()))
+<button id="loadButton9">Load Content</button>
+<div id="container">
+  <iframe id="myIframe-9" src="about:blank" data-src="mesh-9.html" style="display:none; width:100%; height:320px;"></iframe>
+</div>
 
-
-
-    HBox(children=(Output(), Output()))
-
-
-
-
-
-    
-
+<script>
+document.getElementById('loadButton9').addEventListener('click', function() {
+  const iframe = document.getElementById('myIframe-9');
+  
+  // 1. Set the source from the data-src attribute
+  iframe.src = iframe.getAttribute('data-src');
+  
+  // 2. Make it visible
+  iframe.style.display = 'block';
+});
+</script>
     
 
 
