@@ -522,12 +522,26 @@ subplot(uv, f_camel, uv=uv, shading={"wireframe": True, "flat": False}, s=[1, 2,
 Image(os.path.join(root_folder, "data", "mesh-6.png")) # This is what it supposed to look like
 ```
 
+<button id="loadButton6">Load Content</button>
+<div id="container">
+  <iframe id="myIframe-6" src="about:blank" data-src="mesh-6.html" style="display:none; width:100%; height:320px;"></iframe>
 
-    HBox(children=(Output(), Output()))
+</div>
 
+<script>
+document.getElementById('loadButton6').addEventListener('click', function() {
+  const iframe = document.getElementById('myIframe-6');
+  
+  
+  // 1. Set the source from the data-src attribute
+  iframe.src = iframe.getAttribute('data-src');
 
+  
+  // 2. Make it visible
+  iframe.style.display = 'block';
 
-    HBox(children=(Output(), Output()))
+});
+</script>
 
 
 
@@ -948,19 +962,27 @@ subplot(uv, f_camel, uv=uv, shading={"wireframe": True, "flat": False}, s=[1, 2,
 Image(os.path.join(root_folder, "data", "mesh-6.png")) # This is what it supposed to look like
 ```
 
+<button id="loadButton6">Load Content</button>
+<div id="container">
+  <iframe id="myIframe-6" src="about:blank" data-src="mesh-6.html" style="display:none; width:100%; height:320px;"></iframe>
 
-    HBox(children=(Output(), Output()))
+</div>
 
+<script>
+document.getElementById('loadButton6').addEventListener('click', function() {
+  const iframe = document.getElementById('myIframe-6');
+  
+  
+  // 1. Set the source from the data-src attribute
+  iframe.src = iframe.getAttribute('data-src');
 
+  
+  // 2. Make it visible
+  iframe.style.display = 'block';
 
-    HBox(children=(Output(), Output()))
+});
+</script>
 
-
-
-
-
-    
-<iframe src="mesh-6a.html" width="100%" height="320px"></iframe>
     
 
 
