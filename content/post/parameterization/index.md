@@ -131,7 +131,7 @@ Image(os.path.join(root_folder, "data", "mesh-1.png")) # This is what it suppose
     Renderer(camera=PerspectiveCamera(children=(DirectionalLight(color='white', intensity=0.6, position=(1.0, 0.5,…
 
 
-<iframe src="mesh-1.html" width="100%" height="500px"></iframe>
+<iframe src="mesh-1.html" width="100%" height="320px"></iframe>
 
 
     
