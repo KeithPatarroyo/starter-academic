@@ -128,9 +128,6 @@ Image(os.path.join(root_folder, "data", "mesh-1.png")) # This is what it suppose
 ```
 
 
-    Renderer(camera=PerspectiveCamera(children=(DirectionalLight(color='white', intensity=0.6, position=(1.0, 0.5,…
-
-
 <button id="loadButton1">Load Content</button>
 <div id="container">
   <iframe id="myIframe-1" src="about:blank" data-src="mesh-1.html" style="display:none; width:100%; height:320px;"></iframe>
@@ -159,9 +156,6 @@ v_camel, f_camel  = igl.read_triangle_mesh(os.path.join(root_folder, "data", "ca
 plot(v_camel,f_camel,shading={"width": 300, "height": 300})
 Image(os.path.join(root_folder, "data", "mesh-2.png")) # This is what it supposed to look like
 ```
-
-
-    Renderer(camera=PerspectiveCamera(children=(DirectionalLight(color='white', intensity=0.6, position=(1.9967555…
 
 
 
@@ -193,9 +187,6 @@ v_cow, f_cow  = igl.read_triangle_mesh(os.path.join(root_folder, "data", "spot_t
 plot(v_cow,f_cow,shading={"width": 300, "height": 300})
 Image(os.path.join(root_folder, "data", "mesh-3.png")) # This is what it supposed to look like
 ```
-
-
-    Renderer(camera=PerspectiveCamera(children=(DirectionalLight(color='white', intensity=0.6, position=(0.0, 0.10…
 
 
 
@@ -369,29 +360,24 @@ Image(os.path.join(root_folder, "data", "mesh-4.png")) # This is what it suppose
 ```
 
 
-    HBox(children=(Output(), Output()))
-
-
-
-    HBox(children=(Output(), Output()))
-
-
-
-
 <button id="loadButton4">Load Content</button>
 <div id="container">
   <iframe id="myIframe-4" src="about:blank" data-src="mesh-4.html" style="display:none; width:100%; height:320px;"></iframe>
+  <iframe id="myIframe-4c" src="about:blank" data-src="mesh-4c.html" style="display:none; width:100%; height:320px;"></iframe>
 </div>
 
 <script>
 document.getElementById('loadButton4').addEventListener('click', function() {
   const iframe = document.getElementById('myIframe-4');
+  const iframe1 = document.getElementById('myIframe-4c');
   
   // 1. Set the source from the data-src attribute
   iframe.src = iframe.getAttribute('data-src');
+  iframe1.src = iframe.getAttribute('data-src');
   
   // 2. Make it visible
   iframe.style.display = 'block';
+  iframe1.style.display = 'block';
 });
 </script>
   
