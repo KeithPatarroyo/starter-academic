@@ -36,12 +36,12 @@ image:
   focal_point: Right
   
 links:
-- name: 'Project - AutoDesk'
-  url: "https://www.autodesk.com/research/publications/printone"
+- name: 'Foresight Weekend'
+  url: "https://foresight.org/events/vision-weekend-uk-2026/"
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=vgrgeND58C0"
 
 
 
