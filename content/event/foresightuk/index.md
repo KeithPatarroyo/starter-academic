@@ -62,5 +62,4 @@ projects:
 
 Slides:
 
-{{< gdocs src="https://docs.google.com/presentation/d/1tPvdMRTFQ5hWTLHxupuYrIgVuHA6Fk0gZd1OIwZFSjw/embed?start=false&loop=false&delayms=3000
-" >}}
+{{< gdocs src="https://docs.google.com/presentation/d/1tPvdMRTFQ5hWTLHxupuYrIgVuHA6Fk0gZd1OIwZFSjw/embed?start=false&loop=false&delayms=3000" >}}
