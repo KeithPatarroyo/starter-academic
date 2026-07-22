@@ -19,7 +19,7 @@ abstract: "In this talk, I'll discuss the different types of novelty generated b
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2026-06-05T11:00:00Z"
-date_end: "2020-06-07T13:00:00Z"
+date_end: "2026-06-07T13:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
