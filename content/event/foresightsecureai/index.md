@@ -7,7 +7,7 @@ event_url: 'https://foresight.org/events/2026-secure-sovereign-ai-workshop/'
 
 location: Cambridge Innovation Center, Foresight Berlin AI Node
 address:
-  street: Lohmühlenstraße 65, 12435 Berlin-Bezirk Treptow-Köpenick,
+  street: Lohmühlenstraße 65, 12435 Berlin-Bezirk Treptow-Köpenick
   city: Berlin 
   region: 
   postcode: 
