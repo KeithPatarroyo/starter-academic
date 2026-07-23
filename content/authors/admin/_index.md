@@ -37,6 +37,9 @@ organizations:
     url: "http://www.chem.gla.ac.uk/cronin/"
 education:
   courses:
+    - course: PhD in Computational Chemistry
+      institution: University of Glasgow
+      year: 2026
     - course: MSc in Computer Science
       institution: Université de Montréal
       year: 2021
