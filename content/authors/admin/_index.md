@@ -7,6 +7,7 @@ interests:
   - Open-Endedness
   - Hierarchical Assembly
   - AI Cooperation
+  - AI for Science
   - Computational Design
   - Artificial Life
 social:
