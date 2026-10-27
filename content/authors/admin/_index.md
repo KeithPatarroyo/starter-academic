@@ -4,13 +4,11 @@ role: Research Affiliate on Chemical Intelligence, Open-Endedness and Hierarchic
 avatar_filename: avatar.jpg
 bio: My research interests include Hierarchical Assembly, Artificial Intelligence, and Open-Endedness.
 interests:
+  - Open-Endedness
   - Hierarchical Assembly
-  - Artificial Intelligence
+  - AI Cooperation
   - Computational Design
-  - Chemical Evolution
   - Artificial Life
-  - Formal Verification
-  - Distributed Systems
 social:
   - icon: envelope
     icon_pack: fas
