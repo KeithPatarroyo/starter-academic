@@ -18,7 +18,7 @@ links:
   name: Follow
   url: https://twitter.com/wolframphysics
 - name: 'Membership'
-  url: https://www.wolframphysics.org/people/keith-patarroyo/
+  url: https://web.archive.org/web/20230216031045/https://www.wolframphysics.org/people/keith-patarroyo/
 url_code: ""
 url_pdf: ""
 url_slides: ""
