@@ -41,7 +41,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: "https://www.youtube.com/watch?v=vgrgeND58C0"
+url_video: "https://www.youtube.com/watch?v=WPRNjRPw6HM"
 
 
 
