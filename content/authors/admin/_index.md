@@ -1,6 +1,6 @@
 ---
 title: Keith Y. Patarroyo
-role: Research Fellow on Chemical Intelligence, Open-Endedness and Hierarchical Assembly
+role: Research Affiliate on Chemical Intelligence, Open-Endedness and Hierarchical Assembly
 avatar_filename: avatar.jpg
 bio: My research interests include Hierarchical Assembly, Artificial Intelligence, and Open-Endedness.
 interests:
