@@ -1,5 +1,5 @@
 ---
-title: The Imagination Stack: the missing skills for an age of AI
+title: "The Imagination Stack: the missing skills for an age of AI"
 subtitle: Written Essay for the Existential Hope in Practice series from the Foresight Institute
 
 # Summary for listings and search engines
