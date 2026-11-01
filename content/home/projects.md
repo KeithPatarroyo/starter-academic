@@ -27,10 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Physics
-    tag: Physics
+  - name: AI
+    tag: AI
   - name: Assembly
     tag: Assembly
+  - name: Physics
+    tag: Physics
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
