@@ -2,7 +2,7 @@
 title: Automated Lab
 summary: A 2D virtual lab for measuring human-machine teaming configurations with LLM-backed agents doing autonomous science.
 tags:
-- AI Cooperation
+- AI
 date: "2026-09-13T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
