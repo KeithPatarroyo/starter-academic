@@ -32,8 +32,6 @@ authors:
 - admin
 
 tags:
-- Existential Hope
-- Foresight Institute
 - Open-Endedness
 - Imagination
 
