@@ -36,8 +36,6 @@ tags:
 - Imagination
 
 categories:
-- Existential Hope
-- Foresight Institute
 - Open-Endedness
 - Imagination
 ---
