@@ -18,8 +18,8 @@ abstract: "This is an evening conversation about one hard question: What would i
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2026-10-04T11:00:00Z"
-date_end: "2026-10-04T13:00:00Z"
+date: "2026-11-04T18:00:00Z"
+date_end: "2026-11-04T21:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
