@@ -13,7 +13,7 @@ address:
   postcode: 
   country: Germany
 
-summary: Evening Conversation in collaboration with the Foresight Institute and Claude Community Berlin.
+summary: Claude Conversation in collaboration with the Foresight Institute and Claude Community Berlin.
 abstract: "This is an evening conversation about one hard question: What would it take for AI to speed up the science that matters most, and what is left for us to do?"
 
 # Talk start and end times.
