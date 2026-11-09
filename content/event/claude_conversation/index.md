@@ -25,7 +25,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2020-03-02T00:00:00Z"
 
-authors: [admin]
+authors: [admin] [Kazik Pogoda]
 tags: []
 
 # Is this a featured talk? (true/false)
