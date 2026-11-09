@@ -60,6 +60,3 @@ slides: "example-slides"
 projects:
 ---
 
-Slides:
-
-{{< gdocs src="https://docs.google.com/presentation/d/18_uUBgrE3BBxCDh2hgNPbIR7svny0XEqffnOd7Fep6c/embed?start=false&loop=false&delayms=3000" >}}
